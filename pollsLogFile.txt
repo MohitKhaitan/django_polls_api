@@ -1,0 +1,123 @@
+2019-11-22 15:25:37 INFO - C:\MAF\Django\pollsapi\polls\apiviews.py changed, reloading.
+2019-11-22 15:27:06 INFO-C:\MAF\Django\pollsapi\polls\apiviews.py changed, reloading.
+2019-11-22 15:27:35 INFO-C:\MAF\Django\pollsapi\polls\apiviews.py changed, reloading.
+2019-11-22 15:28:44 INFO - C:\MAF\Django\pollsapi\polls\apiviews.py changed, reloading.
+2019-11-22 15:29:09 INFO - C:\MAF\Django\pollsapi\polls\apiviews.py changed, reloading.
+2019-11-22 15:31:13 INFO - C:\MAF\Django\pollsapi\polls\apiviews.py changed, reloading.
+2019-11-22 15:31:28 WARNING - Inside Poll List
+2019-11-22 15:33:05 INFO - C:\MAF\Django\pollsapi\polls\apiviews.py changed, reloading.
+2019-11-22 15:33:26 INFO - C:\MAF\Django\pollsapi\polls\apiviews.py changed, reloading.
+2019-11-22 15:40:44 INFO - C:\MAF\Django\pollsapi\polls\apiviews.py changed, reloading.
+2019-11-22 15:40:58 INFO - Inside Poll List Endpoint
+2019-11-22 15:40:58 DEBUG - <QuerySet [<Poll: A or B?>, <Poll: Me or You?>, <Poll: He or She?>, <Poll: Him or Her?>, <Poll: Live or Dream?>, <Poll: Morning or Night?>, <Poll: Mojito or Caipirinha?>]>
+2019-11-22 15:40:58 DEBUG - [OrderedDict([('id', 1), ('choices', [OrderedDict([('id', 1), ('votes', [OrderedDict([('id', 1), ('choice', 1), ('poll', 1), ('voted_by', 1)]), OrderedDict([('id', 2), ('choice', 1), ('poll', 2), ('voted_by', 1)])]), ('choice_text', 'A'), ('poll', 1)]), OrderedDict([('id', 3), ('votes', []), ('choice_text', 'B'), ('poll', 1)])]), ('question', 'A or B?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 2), ('choices', [OrderedDict([('id', 4), ('votes', []), ('choice_text', 'Me'), ('poll', 2)]), OrderedDict([('id', 5), ('votes', []), ('choice_text', 'You'), ('poll', 2)])]), ('question', 'Me or You?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 3), ('choices', [OrderedDict([('id', 8), ('votes', []), ('choice_text', 'He'), ('poll', 3)]), OrderedDict([('id', 10), ('votes', []), ('choice_text', 'She'), ('poll', 3)])]), ('question', 'He or She?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 4), ('choices', [OrderedDict([('id', 11), ('votes', []), ('choice_text', 'Him'), ('poll', 4)]), OrderedDict([('id', 13), ('votes', []), ('choice_text', 'Her'), ('poll', 4)])]), ('question', 'Him or Her?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 5), ('choices', [OrderedDict([('id', 14), ('votes', []), ('choice_text', 'Live'), ('poll', 5)]), OrderedDict([('id', 21), ('votes', []), ('choice_text', 'Dream'), ('poll', 5)])]), ('question', 'Live or Dream?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 6), ('choices', [OrderedDict([('id', 17), ('votes', []), ('choice_text', 'Morning'), ('poll', 6)]), OrderedDict([('id', 19), ('votes', []), ('choice_text', 'Night'), ('poll', 6)])]), ('question', 'Morning or Night?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 7), ('choices', [OrderedDict([('id', 22), ('votes', []), ('choice_text', 'Mojito'), ('poll', 7)]), OrderedDict([('id', 23), ('votes', []), ('choice_text', 'Caipirinha'), ('poll', 7)])]), ('question', 'Mojito or Caipirinha?'), ('pub_date', '2019-11-08'), ('created_by', 1)])]
+2019-11-22 15:42:01 INFO - C:\MAF\Django\pollsapi\polls\apiviews.py changed, reloading.
+2019-11-22 15:42:11 INFO - Inside Poll List Endpoint
+2019-11-22 15:42:11 DEBUG - <QuerySet [<Poll: A or B?>, <Poll: Me or You?>, <Poll: He or She?>, <Poll: Him or Her?>, <Poll: Live or Dream?>, <Poll: Morning or Night?>, <Poll: Mojito or Caipirinha?>]>
+2019-11-22 15:42:11 DEBUG - [OrderedDict([('id', 1), ('choices', [OrderedDict([('id', 1), ('votes', [OrderedDict([('id', 1), ('choice', 1), ('poll', 1), ('voted_by', 1)]), OrderedDict([('id', 2), ('choice', 1), ('poll', 2), ('voted_by', 1)])]), ('choice_text', 'A'), ('poll', 1)]), OrderedDict([('id', 3), ('votes', []), ('choice_text', 'B'), ('poll', 1)])]), ('question', 'A or B?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 2), ('choices', [OrderedDict([('id', 4), ('votes', []), ('choice_text', 'Me'), ('poll', 2)]), OrderedDict([('id', 5), ('votes', []), ('choice_text', 'You'), ('poll', 2)])]), ('question', 'Me or You?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 3), ('choices', [OrderedDict([('id', 8), ('votes', []), ('choice_text', 'He'), ('poll', 3)]), OrderedDict([('id', 10), ('votes', []), ('choice_text', 'She'), ('poll', 3)])]), ('question', 'He or She?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 4), ('choices', [OrderedDict([('id', 11), ('votes', []), ('choice_text', 'Him'), ('poll', 4)]), OrderedDict([('id', 13), ('votes', []), ('choice_text', 'Her'), ('poll', 4)])]), ('question', 'Him or Her?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 5), ('choices', [OrderedDict([('id', 14), ('votes', []), ('choice_text', 'Live'), ('poll', 5)]), OrderedDict([('id', 21), ('votes', []), ('choice_text', 'Dream'), ('poll', 5)])]), ('question', 'Live or Dream?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 6), ('choices', [OrderedDict([('id', 17), ('votes', []), ('choice_text', 'Morning'), ('poll', 6)]), OrderedDict([('id', 19), ('votes', []), ('choice_text', 'Night'), ('poll', 6)])]), ('question', 'Morning or Night?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 7), ('choices', [OrderedDict([('id', 22), ('votes', []), ('choice_text', 'Mojito'), ('poll', 7)]), OrderedDict([('id', 23), ('votes', []), ('choice_text', 'Caipirinha'), ('poll', 7)])]), ('question', 'Mojito or Caipirinha?'), ('pub_date', '2019-11-08'), ('created_by', 1)])]
+2019-11-22 15:43:33 INFO - C:\MAF\Django\pollsapi\polls\apiviews.py changed, reloading.
+2019-11-22 15:44:10 INFO - C:\MAF\Django\pollsapi\polls\apiviews.py changed, reloading.
+2019-11-22 15:44:19 INFO - Inside Poll List Endpoint
+2019-11-22 15:44:19 DEBUG - PollQueryList: <QuerySet [<Poll: A or B?>, <Poll: Me or You?>, <Poll: He or She?>, <Poll: Him or Her?>, <Poll: Live or Dream?>, <Poll: Morning or Night?>, <Poll: Mojito or Caipirinha?>]>
+2019-11-22 15:44:19 DEBUG - Poll Serialized Data: [OrderedDict([('id', 1), ('choices', [OrderedDict([('id', 1), ('votes', [OrderedDict([('id', 1), ('choice', 1), ('poll', 1), ('voted_by', 1)]), OrderedDict([('id', 2), ('choice', 1), ('poll', 2), ('voted_by', 1)])]), ('choice_text', 'A'), ('poll', 1)]), OrderedDict([('id', 3), ('votes', []), ('choice_text', 'B'), ('poll', 1)])]), ('question', 'A or B?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 2), ('choices', [OrderedDict([('id', 4), ('votes', []), ('choice_text', 'Me'), ('poll', 2)]), OrderedDict([('id', 5), ('votes', []), ('choice_text', 'You'), ('poll', 2)])]), ('question', 'Me or You?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 3), ('choices', [OrderedDict([('id', 8), ('votes', []), ('choice_text', 'He'), ('poll', 3)]), OrderedDict([('id', 10), ('votes', []), ('choice_text', 'She'), ('poll', 3)])]), ('question', 'He or She?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 4), ('choices', [OrderedDict([('id', 11), ('votes', []), ('choice_text', 'Him'), ('poll', 4)]), OrderedDict([('id', 13), ('votes', []), ('choice_text', 'Her'), ('poll', 4)])]), ('question', 'Him or Her?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 5), ('choices', [OrderedDict([('id', 14), ('votes', []), ('choice_text', 'Live'), ('poll', 5)]), OrderedDict([('id', 21), ('votes', []), ('choice_text', 'Dream'), ('poll', 5)])]), ('question', 'Live or Dream?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 6), ('choices', [OrderedDict([('id', 17), ('votes', []), ('choice_text', 'Morning'), ('poll', 6)]), OrderedDict([('id', 19), ('votes', []), ('choice_text', 'Night'), ('poll', 6)])]), ('question', 'Morning or Night?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 7), ('choices', [OrderedDict([('id', 22), ('votes', []), ('choice_text', 'Mojito'), ('poll', 7)]), OrderedDict([('id', 23), ('votes', []), ('choice_text', 'Caipirinha'), ('poll', 7)])]), ('question', 'Mojito or Caipirinha?'), ('pub_date', '2019-11-08'), ('created_by', 1)])]
+2019-11-22 15:44:19 DEBUG - Response: <Response status_code=200, "text/html; charset=utf-8">
+2019-11-22 15:45:46 INFO - C:\MAF\Django\pollsapi\polls\apiviews.py changed, reloading.
+2019-11-22 15:46:07 INFO - Inside Poll List Endpoint
+2019-11-22 15:46:07 DEBUG - PollQueryList: <QuerySet [<Poll: A or B?>, <Poll: Me or You?>, <Poll: He or She?>, <Poll: Him or Her?>, <Poll: Live or Dream?>, <Poll: Morning or Night?>, <Poll: Mojito or Caipirinha?>]>
+2019-11-22 15:46:07 DEBUG - Poll Serialized Data: [OrderedDict([('id', 1), ('choices', [OrderedDict([('id', 1), ('votes', [OrderedDict([('id', 1), ('choice', 1), ('poll', 1), ('voted_by', 1)]), OrderedDict([('id', 2), ('choice', 1), ('poll', 2), ('voted_by', 1)])]), ('choice_text', 'A'), ('poll', 1)]), OrderedDict([('id', 3), ('votes', []), ('choice_text', 'B'), ('poll', 1)])]), ('question', 'A or B?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 2), ('choices', [OrderedDict([('id', 4), ('votes', []), ('choice_text', 'Me'), ('poll', 2)]), OrderedDict([('id', 5), ('votes', []), ('choice_text', 'You'), ('poll', 2)])]), ('question', 'Me or You?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 3), ('choices', [OrderedDict([('id', 8), ('votes', []), ('choice_text', 'He'), ('poll', 3)]), OrderedDict([('id', 10), ('votes', []), ('choice_text', 'She'), ('poll', 3)])]), ('question', 'He or She?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 4), ('choices', [OrderedDict([('id', 11), ('votes', []), ('choice_text', 'Him'), ('poll', 4)]), OrderedDict([('id', 13), ('votes', []), ('choice_text', 'Her'), ('poll', 4)])]), ('question', 'Him or Her?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 5), ('choices', [OrderedDict([('id', 14), ('votes', []), ('choice_text', 'Live'), ('poll', 5)]), OrderedDict([('id', 21), ('votes', []), ('choice_text', 'Dream'), ('poll', 5)])]), ('question', 'Live or Dream?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 6), ('choices', [OrderedDict([('id', 17), ('votes', []), ('choice_text', 'Morning'), ('poll', 6)]), OrderedDict([('id', 19), ('votes', []), ('choice_text', 'Night'), ('poll', 6)])]), ('question', 'Morning or Night?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 7), ('choices', [OrderedDict([('id', 22), ('votes', []), ('choice_text', 'Mojito'), ('poll', 7)]), OrderedDict([('id', 23), ('votes', []), ('choice_text', 'Caipirinha'), ('poll', 7)])]), ('question', 'Mojito or Caipirinha?'), ('pub_date', '2019-11-08'), ('created_by', 1)])]
+2019-11-22 15:46:08 DEBUG - Response: [OrderedDict([('id', 1), ('choices', [OrderedDict([('id', 1), ('votes', [OrderedDict([('id', 1), ('choice', 1), ('poll', 1), ('voted_by', 1)]), OrderedDict([('id', 2), ('choice', 1), ('poll', 2), ('voted_by', 1)])]), ('choice_text', 'A'), ('poll', 1)]), OrderedDict([('id', 3), ('votes', []), ('choice_text', 'B'), ('poll', 1)])]), ('question', 'A or B?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 2), ('choices', [OrderedDict([('id', 4), ('votes', []), ('choice_text', 'Me'), ('poll', 2)]), OrderedDict([('id', 5), ('votes', []), ('choice_text', 'You'), ('poll', 2)])]), ('question', 'Me or You?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 3), ('choices', [OrderedDict([('id', 8), ('votes', []), ('choice_text', 'He'), ('poll', 3)]), OrderedDict([('id', 10), ('votes', []), ('choice_text', 'She'), ('poll', 3)])]), ('question', 'He or She?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 4), ('choices', [OrderedDict([('id', 11), ('votes', []), ('choice_text', 'Him'), ('poll', 4)]), OrderedDict([('id', 13), ('votes', []), ('choice_text', 'Her'), ('poll', 4)])]), ('question', 'Him or Her?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 5), ('choices', [OrderedDict([('id', 14), ('votes', []), ('choice_text', 'Live'), ('poll', 5)]), OrderedDict([('id', 21), ('votes', []), ('choice_text', 'Dream'), ('poll', 5)])]), ('question', 'Live or Dream?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 6), ('choices', [OrderedDict([('id', 17), ('votes', []), ('choice_text', 'Morning'), ('poll', 6)]), OrderedDict([('id', 19), ('votes', []), ('choice_text', 'Night'), ('poll', 6)])]), ('question', 'Morning or Night?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 7), ('choices', [OrderedDict([('id', 22), ('votes', []), ('choice_text', 'Mojito'), ('poll', 7)]), OrderedDict([('id', 23), ('votes', []), ('choice_text', 'Caipirinha'), ('poll', 7)])]), ('question', 'Mojito or Caipirinha?'), ('pub_date', '2019-11-08'), ('created_by', 1)])]
+2019-11-22 17:12:57 INFO - C:\MAF\Django\pollsapi\polls\apiviews.py changed, reloading.
+2019-11-22 17:13:25 INFO - Inside Poll List Endpoint
+2019-11-22 17:13:25 DEBUG - Poll List Request: {}
+2019-11-22 17:13:25 DEBUG - PollQueryList: <QuerySet [<Poll: A or B?>, <Poll: Me or You?>, <Poll: He or She?>, <Poll: Him or Her?>, <Poll: Live or Dream?>, <Poll: Morning or Night?>, <Poll: Mojito or Caipirinha?>]>
+2019-11-22 17:13:25 DEBUG - Response: [OrderedDict([('id', 1), ('choices', [OrderedDict([('id', 1), ('votes', [OrderedDict([('id', 1), ('choice', 1), ('poll', 1), ('voted_by', 1)]), OrderedDict([('id', 2), ('choice', 1), ('poll', 2), ('voted_by', 1)])]), ('choice_text', 'A'), ('poll', 1)]), OrderedDict([('id', 3), ('votes', []), ('choice_text', 'B'), ('poll', 1)])]), ('question', 'A or B?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 2), ('choices', [OrderedDict([('id', 4), ('votes', []), ('choice_text', 'Me'), ('poll', 2)]), OrderedDict([('id', 5), ('votes', []), ('choice_text', 'You'), ('poll', 2)])]), ('question', 'Me or You?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 3), ('choices', [OrderedDict([('id', 8), ('votes', []), ('choice_text', 'He'), ('poll', 3)]), OrderedDict([('id', 10), ('votes', []), ('choice_text', 'She'), ('poll', 3)])]), ('question', 'He or She?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 4), ('choices', [OrderedDict([('id', 11), ('votes', []), ('choice_text', 'Him'), ('poll', 4)]), OrderedDict([('id', 13), ('votes', []), ('choice_text', 'Her'), ('poll', 4)])]), ('question', 'Him or Her?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 5), ('choices', [OrderedDict([('id', 14), ('votes', []), ('choice_text', 'Live'), ('poll', 5)]), OrderedDict([('id', 21), ('votes', []), ('choice_text', 'Dream'), ('poll', 5)])]), ('question', 'Live or Dream?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 6), ('choices', [OrderedDict([('id', 17), ('votes', []), ('choice_text', 'Morning'), ('poll', 6)]), OrderedDict([('id', 19), ('votes', []), ('choice_text', 'Night'), ('poll', 6)])]), ('question', 'Morning or Night?'), ('pub_date', '2019-11-08'), ('created_by', 1)]), OrderedDict([('id', 7), ('choices', [OrderedDict([('id', 22), ('votes', []), ('choice_text', 'Mojito'), ('poll', 7)]), OrderedDict([('id', 23), ('votes', []), ('choice_text', 'Caipirinha'), ('poll', 7)])]), ('question', 'Mojito or Caipirinha?'), ('pub_date', '2019-11-08'), ('created_by', 1)])]
+2019-11-22 17:13:39 INFO - Inside Create Vote Endpoint
+2019-11-22 17:13:39 DEBUG - Create Vote Request: <QueryDict: {'voted_by': ['1']}>
+2019-11-22 17:13:39 DEBUG - Create Vote Response: <Response status_code=400, "text/html; charset=utf-8">
+2019-11-22 17:13:39 WARNING - Bad Request: /polls/2/choice/1/vote/
+2019-11-22 17:14:41 INFO - C:\MAF\Django\pollsapi\polls\apiviews.py changed, reloading.
+2019-11-22 17:14:55 INFO - Inside Create Vote Endpoint
+2019-11-22 17:14:55 DEBUG - Create Vote Request: <QueryDict: {'voted_by': ['1']}>
+2019-11-22 17:14:55 DEBUG - Create Vote pk: 2
+2019-11-22 17:14:55 DEBUG - Create Vote choice_pk: 1
+2019-11-22 17:14:55 DEBUG - Create Vote Response: <Response status_code=400, "text/html; charset=utf-8">
+2019-11-22 17:14:55 WARNING - Bad Request: /polls/2/choice/1/vote/
+2019-11-22 17:15:10 INFO - Inside Create Vote Endpoint
+2019-11-22 17:15:10 DEBUG - Create Vote Request: <QueryDict: {'voted_by': ['1']}>
+2019-11-22 17:15:10 DEBUG - Create Vote pk: 1
+2019-11-22 17:15:10 DEBUG - Create Vote choice_pk: 1
+2019-11-22 17:15:10 DEBUG - Create Vote Response: <Response status_code=400, "text/html; charset=utf-8">
+2019-11-22 17:15:10 WARNING - Bad Request: /polls/1/choice/1/vote/
+2019-11-22 17:15:39 INFO - Inside Choice List Endpoint
+2019-11-22 17:15:39 DEBUG - Choice List Request: {}
+2019-11-22 17:15:39 DEBUG - Choice List: <QuerySet [<Choice: A>, <Choice: B>]>
+2019-11-22 17:15:39 DEBUG - Choice List Response: <Response status_code=200, "text/html; charset=utf-8">
+2019-11-22 17:15:57 INFO - Inside Choice List Endpoint
+2019-11-22 17:15:57 DEBUG - Choice List Request: {}
+2019-11-22 17:15:57 DEBUG - Choice List: <QuerySet [<Choice: Me>, <Choice: You>]>
+2019-11-22 17:15:57 DEBUG - Choice List Response: <Response status_code=200, "text/html; charset=utf-8">
+2019-11-22 17:16:10 INFO - Inside Poll Detail Endpoint
+2019-11-22 17:16:10 DEBUG - Poll Detail Request: {}
+2019-11-22 17:16:10 DEBUG - Poll Detail: Me or You?
+2019-11-22 17:16:10 DEBUG - Poll Detail Response: <Response status_code=200, "text/html; charset=utf-8">
+2019-11-22 17:16:34 INFO - Inside Create Vote Endpoint
+2019-11-22 17:16:34 DEBUG - Create Vote Request: <QueryDict: {'voted_by': ['1']}>
+2019-11-22 17:16:34 DEBUG - Create Vote pk: 1
+2019-11-22 17:16:34 DEBUG - Create Vote choice_pk: 2
+2019-11-22 17:16:34 DEBUG - Create Vote Response: <Response status_code=400, "text/html; charset=utf-8">
+2019-11-22 17:16:34 WARNING - Bad Request: /polls/1/choice/2/vote/
+2019-11-22 17:16:53 INFO - Inside Create Vote Endpoint
+2019-11-22 17:16:53 DEBUG - Create Vote Request: <QueryDict: {'voted_by': ['1']}>
+2019-11-22 17:16:53 DEBUG - Create Vote pk: 1
+2019-11-22 17:16:53 DEBUG - Create Vote choice_pk: 0
+2019-11-22 17:16:53 DEBUG - Create Vote Response: <Response status_code=400, "text/html; charset=utf-8">
+2019-11-22 17:16:53 WARNING - Bad Request: /polls/1/choice/0/vote/
+2019-11-22 17:17:05 INFO - Inside Create Vote Endpoint
+2019-11-22 17:17:05 DEBUG - Create Vote Request: <QueryDict: {'voted_by': ['1']}>
+2019-11-22 17:17:05 DEBUG - Create Vote pk: 2
+2019-11-22 17:17:05 DEBUG - Create Vote choice_pk: 0
+2019-11-22 17:17:05 DEBUG - Create Vote Response: <Response status_code=400, "text/html; charset=utf-8">
+2019-11-22 17:17:05 WARNING - Bad Request: /polls/2/choice/0/vote/
+2019-11-22 17:17:23 INFO - Inside Create Vote Endpoint
+2019-11-22 17:17:23 DEBUG - Create Vote Request: <QueryDict: {'voted_by': ['1']}>
+2019-11-22 17:17:23 DEBUG - Create Vote pk: 2
+2019-11-22 17:17:23 DEBUG - Create Vote choice_pk: 1
+2019-11-22 17:17:23 DEBUG - Create Vote Response: <Response status_code=400, "text/html; charset=utf-8">
+2019-11-22 17:17:23 WARNING - Bad Request: /polls/2/choice/1/vote/
+2019-11-22 17:19:19 INFO - Inside Create Vote Endpoint
+2019-11-22 17:19:19 DEBUG - Create Vote Request: <QueryDict: {'voted_by': ['2']}>
+2019-11-22 17:19:19 DEBUG - Create Vote pk: 2
+2019-11-22 17:19:19 DEBUG - Create Vote choice_pk: 1
+2019-11-22 17:19:19 DEBUG - Create Vote Response: <Response status_code=400, "text/html; charset=utf-8">
+2019-11-22 17:19:19 WARNING - Bad Request: /polls/2/choice/1/vote/
+2019-11-22 17:23:24 INFO - Inside Create Vote Endpoint
+2019-11-22 17:23:24 DEBUG - Create Vote Request: <QueryDict: {'voted_by': ['1']}>
+2019-11-22 17:23:24 DEBUG - Create Vote pk: 2
+2019-11-22 17:23:24 DEBUG - Create Vote choice_pk: 1
+2019-11-22 17:23:24 DEBUG - Create Vote Response: <Response status_code=400, "text/html; charset=utf-8">
+2019-11-22 17:23:24 WARNING - Bad Request: /polls/2/choice/1/vote/
+2019-11-22 17:23:32 INFO - Inside Create Vote Endpoint
+2019-11-22 17:23:32 DEBUG - Create Vote Request: <QueryDict: {'voted_by': ['1']}>
+2019-11-22 17:23:32 DEBUG - Create Vote pk: 5
+2019-11-22 17:23:32 DEBUG - Create Vote choice_pk: 1
+2019-11-22 17:23:32 DEBUG - Create Vote Response: <Response status_code=200, "text/html; charset=utf-8">
+2019-11-22 17:23:53 INFO - Inside Create Vote Endpoint
+2019-11-22 17:23:53 DEBUG - Create Vote Request: <QueryDict: {'voted_by': ['1']}>
+2019-11-22 17:23:53 DEBUG - Create Vote pk: 5
+2019-11-22 17:23:53 DEBUG - Create Vote choice_pk: 2
+2019-11-22 17:23:53 DEBUG - Create Vote Response: <Response status_code=400, "text/html; charset=utf-8">
+2019-11-22 17:23:53 WARNING - Bad Request: /polls/5/choice/2/vote/
+2019-11-22 17:24:04 INFO - Inside Create Vote Endpoint
+2019-11-22 17:24:04 DEBUG - Create Vote Request: <QueryDict: {'voted_by': ['1']}>
+2019-11-22 17:24:04 DEBUG - Create Vote pk: 5
+2019-11-22 17:24:04 DEBUG - Create Vote choice_pk: 0
+2019-11-22 17:24:04 DEBUG - Create Vote Response: <Response status_code=400, "text/html; charset=utf-8">
+2019-11-22 17:24:04 WARNING - Bad Request: /polls/5/choice/0/vote/
+2019-11-22 17:28:14 INFO - Inside Create Vote Endpoint
+2019-11-22 17:28:14 DEBUG - Create Vote Request: <QueryDict: {'voted_by': ['1']}>
+2019-11-22 17:28:14 DEBUG - Create Vote pk: 5
+2019-11-22 17:28:14 DEBUG - Create Vote choice_pk: 0
+2019-11-22 17:28:14 DEBUG - Create Vote Response: <Response status_code=400, "text/html; charset=utf-8">
+2019-11-22 17:28:14 DEBUG - Create Vote Response: {'choice': [ErrorDetail(string='Invalid pk "0" - object does not exist.', code='does_not_exist')]}
+2019-11-22 17:28:14 WARNING - Bad Request: /polls/5/choice/0/vote/
+2019-11-22 17:29:49 INFO - C:\MAF\Django\pollsapi\polls\apiviews.py changed, reloading.
